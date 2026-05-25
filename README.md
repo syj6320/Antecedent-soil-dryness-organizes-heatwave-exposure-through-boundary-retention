@@ -1,8 +1,8 @@
-# Antecedent-soil-dryness-organizes-heatwave-exposure-through-boundary-retention
+# Antecedent land dryness reorganizes heatwave-object exposure through boundary retention
 Code and workflows
 Code repository for the manuscript:
 
-**Antecedent soil dryness organizes heatwave exposure through boundary retention**
+**Antecedent land dryness reorganizes heatwave-object exposure through boundary retention**
 
 This repository contains the preprocessing, event-object extraction, mechanism diagnostics, robustness analysis, CMIP6 projection analysis, and publication-figure workflows used in the manuscript. The central aim is to test whether antecedent soil dryness organizes heatwave exposure primarily through the spatial retention and boundary evolution of heatwave objects, rather than only through changes in local heatwave intensity or duration.
 
